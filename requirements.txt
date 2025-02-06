@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+imblearn
+matplotlib
+seaborn
+fastapi
+uvicorn
+psycopg2
+sqlalchemy
+kafka-python
+pydantic
+pytest
