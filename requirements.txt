@@ -12,3 +12,7 @@ fastapi
 uvicorn
 pydantic
 pytest
+streamlit
+yfinance
+matplotlib
+pandas
